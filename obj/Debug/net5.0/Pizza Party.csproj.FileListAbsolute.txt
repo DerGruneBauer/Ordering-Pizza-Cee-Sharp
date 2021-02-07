@@ -1,0 +1,16 @@
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\Pizza Party.csprojAssemblyReference.cache
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\Pizza Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\Pizza Party.AssemblyInfoInputs.cache
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\Pizza Party.AssemblyInfo.cs
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\Pizza Party.csproj.CoreCompileInputs.cache
+C:\Program Files\dotnet\C# Coding\Pizza Party\bin\Debug\net5.0\Pizza Party.exe
+C:\Program Files\dotnet\C# Coding\Pizza Party\bin\Debug\net5.0\Pizza Party.deps.json
+C:\Program Files\dotnet\C# Coding\Pizza Party\bin\Debug\net5.0\Pizza Party.runtimeconfig.json
+C:\Program Files\dotnet\C# Coding\Pizza Party\bin\Debug\net5.0\Pizza Party.runtimeconfig.dev.json
+C:\Program Files\dotnet\C# Coding\Pizza Party\bin\Debug\net5.0\Pizza Party.dll
+C:\Program Files\dotnet\C# Coding\Pizza Party\bin\Debug\net5.0\ref\Pizza Party.dll
+C:\Program Files\dotnet\C# Coding\Pizza Party\bin\Debug\net5.0\Pizza Party.pdb
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\Pizza Party.dll
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\ref\Pizza Party.dll
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\Pizza Party.pdb
+C:\Program Files\dotnet\C# Coding\Pizza Party\obj\Debug\net5.0\Pizza Party.genruntimeconfig.cache
